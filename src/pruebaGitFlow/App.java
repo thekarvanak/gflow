@@ -6,7 +6,7 @@ public class App {
 		return a + b;
 	}
 
-	public static double restar(double a, double b) {
-		return a + b;
+	public static double multiplicacion(double a, double b) {
+		return a * b;
 	}
 }
